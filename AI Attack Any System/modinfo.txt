@@ -1,0 +1,8 @@
+	Name: AI Attack Any System
+	Compatibility: 200
+	Description: <<
+		Small Tweak to enable AI to attack any System. A few additionals to make AI fleets more likely to retreat and seemingly do things more
+
+		Please note this does not contain any additional changes to allow for compatability with Rising Stars.
+		Not compatible with CE
+	>>
